@@ -5,7 +5,7 @@ database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = "select * from armor"
+query = "select * from quest"
 dbConnection.setQuery(query)
 
 # voer query uit

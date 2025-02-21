@@ -1,0 +1,146 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from armor",
+    "error": null,
+    "resultcount": 23,
+    "result": [
+        {
+            "id": 1,
+            "name": "Loincloth",
+            "price": 10,
+            "defense": 5
+        },
+        {
+            "id": 2,
+            "name": "Shirt",
+            "price": 15,
+            "defense": 50
+        },
+        {
+            "id": 3,
+            "name": "Skin Armor",
+            "price": 100,
+            "defense": 400
+        },
+        {
+            "id": 4,
+            "name": "Linothorax",
+            "price": 320,
+            "defense": 900
+        },
+        {
+            "id": 5,
+            "name": "Cuirass",
+            "price": 515,
+            "defense": 1200
+        },
+        {
+            "id": 6,
+            "name": "Leather Armor",
+            "price": 875,
+            "defense": 1850
+        },
+        {
+            "id": 7,
+            "name": "Chainmail",
+            "price": 1125,
+            "defense": 2200
+        },
+        {
+            "id": 8,
+            "name": "Plate Armor",
+            "price": 2100,
+            "defense": 3100
+        },
+        {
+            "id": 9,
+            "name": "Bronze Armor",
+            "price": 2950,
+            "defense": 4250
+        },
+        {
+            "id": 10,
+            "name": "Steel Armor",
+            "price": 3900,
+            "defense": 5150
+        },
+        {
+            "id": 11,
+            "name": "Golden Armor",
+            "price": 5000,
+            "defense": 6300
+        },
+        {
+            "id": 12,
+            "name": "Diamond Armor",
+            "price": 8325,
+            "defense": 7250
+        },
+        {
+            "id": 13,
+            "name": "Shiny Robe",
+            "price": 1250,
+            "defense": 2575
+        },
+        {
+            "id": 14,
+            "name": "Sorceress Skin",
+            "price": 4000,
+            "defense": 4900
+        },
+        {
+            "id": 15,
+            "name": "Invincible Cloak",
+            "price": 8150,
+            "defense": 7100
+        },
+        {
+            "id": 16,
+            "name": "Dragon Skull Armor",
+            "price": 9950,
+            "defense": 8500
+        },
+        {
+            "id": 17,
+            "name": "Dragon Skin",
+            "price": 9950,
+            "defense": 8500
+        },
+        {
+            "id": 18,
+            "name": "Tear of God",
+            "price": 15000,
+            "defense": 9750
+        },
+        {
+            "id": 19,
+            "name": "Giant Shell",
+            "price": 0,
+            "defense": 400
+        },
+        {
+            "id": 20,
+            "name": "Skeleton Armor",
+            "price": 0,
+            "defense": 625
+        },
+        {
+            "id": 21,
+            "name": "Evil Aura",
+            "price": 0,
+            "defense": 1800
+        },
+        {
+            "id": 22,
+            "name": "Human Skin Armor",
+            "price": 0,
+            "defense": 2375
+        },
+        {
+            "id": 23,
+            "name": "Apocalypse Armor",
+            "price": 0,
+            "defense": 2925
+        }
+    ]
+}

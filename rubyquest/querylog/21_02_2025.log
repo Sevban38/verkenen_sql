@@ -1,1 +1,3 @@
 select * from person; #11:15:32@rubyquest.db
+select * from city; #11:20:19@rubyquest.db
+select * from armor; #11:28:53@rubyquest.db

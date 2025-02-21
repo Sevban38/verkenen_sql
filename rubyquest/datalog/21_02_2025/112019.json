@@ -1,0 +1,143 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from city",
+    "error": null,
+    "resultcount": 27,
+    "result": [
+        {
+            "id": 1,
+            "name": "Knael",
+            "region": 4
+        },
+        {
+            "id": 2,
+            "name": "Troy",
+            "region": 4
+        },
+        {
+            "id": 3,
+            "name": "Pacifa",
+            "region": 4
+        },
+        {
+            "id": 4,
+            "name": "Onker",
+            "region": 4
+        },
+        {
+            "id": 5,
+            "name": "Quiro",
+            "region": 4
+        },
+        {
+            "id": 6,
+            "name": "Antsor",
+            "region": 4
+        },
+        {
+            "id": 7,
+            "name": "Harbor",
+            "region": 3
+        },
+        {
+            "id": 8,
+            "name": "Montse",
+            "region": 3
+        },
+        {
+            "id": 9,
+            "name": "Laeks",
+            "region": 3
+        },
+        {
+            "id": 10,
+            "name": "Vermon",
+            "region": 3
+        },
+        {
+            "id": 11,
+            "name": "Nordberg",
+            "region": 3
+        },
+        {
+            "id": 12,
+            "name": "Charcol",
+            "region": 5
+        },
+        {
+            "id": 13,
+            "name": "Droins",
+            "region": 5
+        },
+        {
+            "id": 14,
+            "name": "Mordor",
+            "region": 5
+        },
+        {
+            "id": 15,
+            "name": "Unterdages",
+            "region": 5
+        },
+        {
+            "id": 16,
+            "name": "Drakegor",
+            "region": 5
+        },
+        {
+            "id": 17,
+            "name": "Xantr",
+            "region": 5
+        },
+        {
+            "id": 18,
+            "name": "Yester",
+            "region": 5
+        },
+        {
+            "id": 19,
+            "name": "Tomparf",
+            "region": 1
+        },
+        {
+            "id": 20,
+            "name": "Preqeu",
+            "region": 1
+        },
+        {
+            "id": 21,
+            "name": "Hansora",
+            "region": 1
+        },
+        {
+            "id": 22,
+            "name": "Ismir",
+            "region": 1
+        },
+        {
+            "id": 23,
+            "name": "Sempre City",
+            "region": 2
+        },
+        {
+            "id": 24,
+            "name": "Nayak",
+            "region": 2
+        },
+        {
+            "id": 25,
+            "name": "Umprivaklo",
+            "region": 2
+        },
+        {
+            "id": 26,
+            "name": "Fjitsur",
+            "region": 2
+        },
+        {
+            "id": 27,
+            "name": "Soyaki",
+            "region": 2
+        }
+    ]
+}
