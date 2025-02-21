@@ -5,7 +5,7 @@ database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = "select * from person"
+query = "select * from creature"
 dbConnection.setQuery(query)
 
 # voer query uit
