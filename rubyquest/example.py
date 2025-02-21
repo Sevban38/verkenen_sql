@@ -1,11 +1,11 @@
 import db
 
 # maak connectie met de database
-database = ''
+database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = ""
+query = "select * from person "
 dbConnection.setQuery(query)
 
 # voer query uit
