@@ -1,0 +1,38 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon order by price desc limit 5",
+    "error": null,
+    "resultcount": 5,
+    "result": [
+        {
+            "id": 40,
+            "name": "Halberd",
+            "price": 2850,
+            "attack": 3500
+        },
+        {
+            "id": 39,
+            "name": "ranseur",
+            "price": 2520,
+            "attack": 3100
+        },
+        {
+            "id": 22,
+            "name": "Longsword",
+            "price": 2200,
+            "attack": 3200
+        },
+        {
+            "id": 29,
+            "name": "Maul",
+            "price": 2005,
+            "attack": 2900
+        },
+        {
+            "id": 38,
+            "name": "Voulge",
+            "price": 1920,
+            "attack": 2925
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT * FROM person ORDER BY Name; asc",
+    "error": "ProgrammingError('You can only execute one statement at a time.')",
+    "resultcount": 0,
+    "result": []
+}

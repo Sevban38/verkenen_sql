@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select top 10 * from weapon",
+    "error": "near \"10\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,11 @@
+{
+    "database": "rubyquest.db",
+    "query": "SELECT name FROM creature WHERE health > max_health",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "name": "Orc"
+        }
+    ]
+}

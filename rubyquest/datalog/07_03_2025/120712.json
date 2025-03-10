@@ -1,0 +1,68 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from weapon limit 10",
+    "error": null,
+    "resultcount": 10,
+    "result": [
+        {
+            "id": 1,
+            "name": "Dirk",
+            "price": 10,
+            "attack": 100
+        },
+        {
+            "id": 2,
+            "name": "Poniard",
+            "price": 15,
+            "attack": 150
+        },
+        {
+            "id": 3,
+            "name": "Rondel",
+            "price": 28,
+            "attack": 200
+        },
+        {
+            "id": 4,
+            "name": "Dagger",
+            "price": 50,
+            "attack": 250
+        },
+        {
+            "id": 5,
+            "name": "Anelace",
+            "price": 70,
+            "attack": 300
+        },
+        {
+            "id": 6,
+            "name": "Baselard",
+            "price": 110,
+            "attack": 425
+        },
+        {
+            "id": 7,
+            "name": "Cinquedea",
+            "price": 130,
+            "attack": 450
+        },
+        {
+            "id": 8,
+            "name": "Stiletto",
+            "price": 150,
+            "attack": 500
+        },
+        {
+            "id": 9,
+            "name": "Machete",
+            "price": 300,
+            "attack": 725
+        },
+        {
+            "id": 10,
+            "name": "Katara",
+            "price": 550,
+            "attack": 925
+        }
+    ]
+}
