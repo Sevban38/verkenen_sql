@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from person where name = 'Killer Bee' and 'Orc'",
+    "error": null,
+    "resultcount": 0,
+    "result": []
+}

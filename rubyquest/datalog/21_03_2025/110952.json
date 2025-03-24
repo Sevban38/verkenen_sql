@@ -1,0 +1,107 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creature where name = 'Killer Bee' or 'Orc'",
+    "error": null,
+    "resultcount": 9,
+    "result": [
+        {
+            "id": 1,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 2,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 3,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 4,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 8,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 5,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 6,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 2,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 7,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 8,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 9,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 5,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        }
+    ]
+}

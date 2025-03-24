@@ -1,0 +1,272 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from creature where name is 'Killer Bee' or name is 'Orc'",
+    "error": null,
+    "resultcount": 24,
+    "result": [
+        {
+            "id": 1,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 2,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 3,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 4,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 8,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 5,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 6,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 2,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 7,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 8,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 10,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 9,
+            "name": "Killer Bee",
+            "attack": 3,
+            "defense": 5,
+            "max_health": 10,
+            "health": 5,
+            "gold": 2,
+            "experience": 1,
+            "spawn": "1"
+        },
+        {
+            "id": 54,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 55,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 56,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 57,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 23,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 58,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 59,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 60,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 61,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 62,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 3,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 63,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 64,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 45,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 65,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 66,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 67,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        },
+        {
+            "id": 68,
+            "name": "Orc",
+            "attack": 30,
+            "defense": 20,
+            "max_health": 30,
+            "health": 30,
+            "gold": 10,
+            "experience": 15,
+            "spawn": "1"
+        }
+    ]
+}
