@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from person where attack > 10 anddefense > 10 and agility > 10",
+    "error": "near \"anddefense\": syntax error",
+    "resultcount": 0,
+    "result": []
+}

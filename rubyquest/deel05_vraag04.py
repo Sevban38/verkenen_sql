@@ -5,7 +5,7 @@ database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = "select * from creature where name = 'Killer Bee' or 'Orc'"
+query = "select * from animal where type = 'Tiger' ORDER BY speed DESC LIMIT 1"
 dbConnection.setQuery(query)
 
 # voer query uit

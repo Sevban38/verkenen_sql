@@ -1,0 +1,7 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from animal where type is 'Wolf' or name is 'Bear' or name is 'Eagle'",
+    "error": "no such column: name",
+    "resultcount": 0,
+    "result": []
+}

@@ -1,0 +1,58 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from hero where intelligence != 30 and intelligence != 90",
+    "error": null,
+    "resultcount": 5,
+    "result": [
+        {
+            "id": 1,
+            "level": 9,
+            "health": 1035,
+            "stamina": 30,
+            "intelligence": 70,
+            "charisma": 80,
+            "resilience": 60,
+            "person": 1
+        },
+        {
+            "id": 2,
+            "level": 35,
+            "health": 3585,
+            "stamina": 50,
+            "intelligence": 40,
+            "charisma": 10,
+            "resilience": 30,
+            "person": 2
+        },
+        {
+            "id": 6,
+            "level": 3,
+            "health": 420,
+            "stamina": 90,
+            "intelligence": 20,
+            "charisma": 80,
+            "resilience": 50,
+            "person": 6
+        },
+        {
+            "id": 9,
+            "level": 20,
+            "health": 2630,
+            "stamina": 90,
+            "intelligence": 20,
+            "charisma": 90,
+            "resilience": 40,
+            "person": 9
+        },
+        {
+            "id": 10,
+            "level": 1,
+            "health": 210,
+            "stamina": 10,
+            "intelligence": 80,
+            "charisma": 30,
+            "resilience": 30,
+            "person": 10
+        }
+    ]
+}

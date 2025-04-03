@@ -5,7 +5,7 @@ database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = "select * from animal where name is 'Wolf' or name is 'Bear' or name is 'Eagle'"
+query = "select * from animal where type is 'Wolf' or type is 'Bear' or type is 'Eagle'"
 dbConnection.setQuery(query)
 
 # voer query uit

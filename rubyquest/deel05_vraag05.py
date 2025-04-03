@@ -5,7 +5,7 @@ database = 'rubyquest.db'
 dbConnection = db.connect(database)
 
 # zet de query
-query = "select * from creature where name = 'Killer Bee' or 'Orc'"
+query = "select * from person where attack = 10 and defense = 10 and agility = 10"
 dbConnection.setQuery(query)
 
 # voer query uit

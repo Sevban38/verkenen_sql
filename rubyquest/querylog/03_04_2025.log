@@ -1,0 +1,10 @@
+select * from animal where name is 'Wolf' or name is 'Bear' or name is 'Eagle'; #10:59:06@rubyquest.db
+select * from animal where type is 'Wolf' or name is 'Bear' or name is 'Eagle'; #10:59:46@rubyquest.db
+select * from animal where type is 'Wolf' or name is 'Bear' or name is 'Eagle'; #11:00:26@rubyquest.db
+select * from animal where type is 'Wolf' or type is 'Bear' or type is 'Eagle'; #11:01:43@rubyquest.db
+SELECT * FROM animal WHERE type = 'tiger' ORDER BY speed DESC LIMIT 1; #11:03:02@rubyquest.db
+select * from animal where type = 'Tiger' ORDER BY speed DESC LIMIT 1; #11:03:25@rubyquest.db
+select * from person where attack > 10 anddefense > 10 and agility > 10; #11:04:59@rubyquest.db
+select * from person where attack > 10 and defense > 10 and agility > 10; #11:05:16@rubyquest.db
+select * from person where attack = 10 and defense = 10 and agility = 10; #11:05:37@rubyquest.db
+select * from hero where intelligence != 30 and intelligence != 90; #11:07:15@rubyquest.db

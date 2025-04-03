@@ -1,0 +1,16 @@
+{
+    "database": "rubyquest.db",
+    "query": "select * from animal where type = 'Tiger' ORDER BY speed DESC LIMIT 1",
+    "error": null,
+    "resultcount": 1,
+    "result": [
+        {
+            "id": 77,
+            "type": "Tiger",
+            "speed": 10,
+            "defense": 9,
+            "loyalty": 3,
+            "owner": 8
+        }
+    ]
+}
